@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naodeng
-- 👀 I’m interested in softtest
+- 👀 I’m interested in softWARE test
 - 🌱 I’m currently learning js testframework
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me ...
