@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-- 🌱 I’m currently learning [Groovy](https://groovy-lang.org/)
+- 🌱 I’m currently learning [RestAssured](https://rest-assured.io/)
 
 - 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
 
@@ -20,13 +20,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [gatling 性能测试工具进阶用法：报告解析和场景设置](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
 - [gatling 性能测试工具：从 0 到 1 搭建自己的 Gatling 工程](https://naodeng.tech/post/gatling-tool-intro2/)
 - [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/)
 - [postman替代工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
 - [接口测试简介](https://naodeng.tech/post/introduction_of_api_test/)
 - [Playwright Get Started](https://naodeng.tech/post/playwright-get-started/)
-- [Cypress UI 自动化测试框架学习（6）- 用例编辑和脚本录制工具 Cypress Studio 介绍](https://naodeng.tech/post/cypress-demo6/)
-- [Cypress UI 自动化测试框架学习（5）- 命令大全](https://naodeng.tech/post/cypress-demo5/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
