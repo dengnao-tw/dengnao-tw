@@ -10,9 +10,8 @@
 
 - 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-- 🌱 I’m currently learning [SuperTest](https://www.npmjs.com/package/supertest)
-
-- 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
+- 🌱 I’m currently learning **K6**
+- 📝 I regularly write articles on [https://naodeng.com.cn/](https://naodeng.com.cn/)
 
 - 📫 How to reach me **dengnao@gmail.com**
 
